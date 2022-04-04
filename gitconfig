@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bryanbatt@yahoo.com
+	name = Bryan Battenfelder
